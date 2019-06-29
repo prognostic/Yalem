@@ -1,2 +1,2 @@
 # Yalem
-Yet another lemmatizer
+Yet another Lemmatizer for text in English
